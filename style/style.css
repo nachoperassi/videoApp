@@ -1,0 +1,45 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	line-height: 120%;
+}
+
+.search-bar {
+	margin: 20px;
+	text-align: center;
+}
+
+.search-bar input {
+	width: 75%;
+}
+
+.video-detail .details {
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.details h1 {
+	font-size: 1.4em;
+}
+
+.details p {
+	line-height: 140%;
+}
+
+/*.list-group {
+	margin-top: 10px;
+}*/
+
+.list-group-item {
+	cursor: pointer;
+}
+
+.list-group-item:hover {
+	background-color: #eee;
+}
+
+.media-heading {
+	font-weight: 500;
+}
